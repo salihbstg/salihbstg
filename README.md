@@ -13,16 +13,16 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 - PostgreSQL, MySQL, H2  
 - RESTful API  
 - Git & GitHub  
-- Docker (Basic level)
+- Docker (basic level)
 
 ## 📂 Featured Projects
 
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
-| Task Manager API | A task management system | Spring Boot, PostgreSQL | [GitHub](link-to-be-added) |
-| Book Library API | Book CRUD operations | Spring Boot, H2 DB | [GitHub](link-to-be-added) |
-| Rescue Website | A static website design | HTML, CSS | [GitHub](link-to-be-added) |
+| **Micro Shop API** | A simple shop management system | Spring Boot, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
+| **Techcareer Project** | Bootcamp backend project | Spring Boot, Java | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
+| **E-Commerce Demo** | Basic backend demo | HTML, CSS | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
 
-## 📫 Contact Me:
+## 📫 Contact Me
 - 📧 salihbstg01@gmail.com  
 - 🔗 [LinkedIn](https://linkedin.com/in/salih-bastug)
