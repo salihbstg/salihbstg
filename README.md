@@ -9,11 +9,16 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 
 ## 🛠️ Technologies I Use
 - Java, Spring Boot  
-- Spring Data JPA, Hibernate  
-- PostgreSQL, MySQL, H2  
-- RESTful API  
+- Spring Data JPA, Hibernate
+- Microservices
+- PostgreSQL, MySQL, H2
+- RESTful API
+- React
+- Javascript
+- C#
 - Git & GitHub  
 - Docker (basic level)
+
 
 ## 📂 Featured Projects
 
@@ -22,6 +27,8 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 | **Micro Shop API** | A simple shop management system | Spring Boot, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
 | **Techcareer Project** | Bootcamp backend project | Spring Boot, Java | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
 | **E-Commerce Demo** | Basic backend demo | HTML, CSS | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
+| **E-Commerce Demo 2** | Basic backend demo | HTML, CSS | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
+
 
 ## 📫 Contact Me
 - 📧 salihbstg01@gmail.com  
