@@ -24,10 +24,16 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
-| **Micro Shop API** | A simple shop management system | Spring Boot, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
-| **Techcareer Project** | Bootcamp backend project | Spring Boot, Java | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
-| **E-Commerce Demo** | Basic backend demo | HTML, CSS | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
-| **E-Commerce Demo 2** | Basic backend demo | HTML, CSS | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
+| **Micro Shop API** | A simple shop management system | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
+| **Techcareer Project** | Bootcamp backend project | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
+| **E-Commerce Demo** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
+| **E-Commerce Demo 2** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
+| **My Web Site With React** | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/web-site-used-nodemailer) |
+| **E-Commerce Demo With React** |  HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/e-commerce) |
+| **Piano With Javascript** | HTML, CSS | [GitHub](https://github.com/salihbstg/Piano-with-javascript) |
+| **Deep Learning-Based Eye Color Detection** | Basic deeplearning | Pythoon, CNN | [GitHub](https://github.com/salihbstg/Deep-Learning) |
+| **Cargo Automation** | Desktop Application | C#, MsSQL | [GitHub](https://github.com/salihbstg/Cargo-Automation-C-) |
+| **Questionnaire Automation** | Desktop Application | C#, MsSQL | [GitHub](https://github.com/salihbstg/Questionnaire-C-) |
 
 
 ## 📫 Contact Me
