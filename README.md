@@ -32,7 +32,7 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 | **E-Commerce Demo With React** | E-Commerce Web Site |  HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/e-commerce) |
 | **Piano With Javascript** | Piano App On Browser | HTML, CSS | [GitHub](https://github.com/salihbstg/Piano-with-javascript) |
 | **Deep Learning-Based Eye Color Detection** | Basic deeplearning | Pythoon, CNN | [GitHub](https://github.com/salihbstg/Deep-Learning) |
-| **Cargo Automation** | [Desktop Application](https://drive.google.com/file/d/1tqtveV_dx-KOo0A6cOrVxsK83Y1wyGtw/view?usp=drive_link) | C#, MsSQL | [GitHub](https://github.com/salihbstg/Cargo-Automation-C-) |
+| **Cargo Automation** | [Video](https://drive.google.com/file/d/1tqtveV_dx-KOo0A6cOrVxsK83Y1wyGtw/view?usp=drive_link) | C#, MsSQL | [GitHub](https://github.com/salihbstg/Cargo-Automation-C-) |
 | **Questionnaire Automation** | Desktop Application | C#, MsSQL | [GitHub](https://github.com/salihbstg/Questionnaire-C-) |
 
 
