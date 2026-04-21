@@ -25,6 +25,7 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
 | **Micro Shop API** | A simple shop management system | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
+| **Billing Demo API** | A simple billing management system | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/billing-demo) |
 | **Techcareer Project** | Bootcamp backend project | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
 | **E-Commerce Demo** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
 | **E-Commerce Demo 2** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
