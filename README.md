@@ -35,6 +35,7 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 | **Deep Learning-Based Eye Color Detection** | Basic deeplearning | Pythoon, CNN | [GitHub](https://github.com/salihbstg/Deep-Learning) |
 | **Cargo Automation** | [Video](https://drive.google.com/file/d/1tqtveV_dx-KOo0A6cOrVxsK83Y1wyGtw/view?usp=drive_link) | C#, MsSQL | [GitHub](https://github.com/salihbstg/Cargo-Automation-C-) |
 | **Questionnaire Automation** | Desktop Application | C#, MsSQL | [GitHub](https://github.com/salihbstg/Questionnaire-C-) |
+| **Number To Words** | Console Application | C++ | [GitHub](https://github.com/salihbstg/Number-To-Words) |
 
 
 ## 📫 Contact Me
