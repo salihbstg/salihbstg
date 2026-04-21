@@ -8,17 +8,18 @@ I focus on building RESTful APIs, data modeling, and working with JPA.
 Currently, I'm improving my skills in Spring Security and deployment processes.
 
 ## 🛠️ Technologies I Use
-- Java, Spring Boot  
-- Spring Data JPA, Hibernate
-- Microservices
-- PostgreSQL, MySQL, H2
-- RESTful API
-- React
-- Javascript
-- C#
-- Git & GitHub  
-- Docker (basic level)
-
+Java, Spring Boot
+Spring Data JPA, Hibernate
+Microservices Architecture
+RESTful API Development
+PostgreSQL, MySQL, H2
+React
+JavaScript (ES6+)
+HTML5, CSS3
+CSS Framework: Bootstrap / Tailwind CSS
+Git, GitHub
+C#
+Docker (Basic Level)
 
 ## 📂 Featured Projects
 
