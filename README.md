@@ -28,8 +28,8 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 | **Micro Shop API** | A simple shop management system | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
 | **Billing Demo API** | [Link](https://billing-demo-production.up.railway.app/api) | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/billing-demo) |
 | **Techcareer Project** | Bootcamp backend project | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
-| **E-Commerce Demo** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
-| **E-Commerce Demo 2** | Basic backend demo | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
+| **E-Commerce Demo** | E-Commerce demo front-end | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/spring-e-commerce-demo) |
+| **E-Commerce Demo 2** | E-Commerce demo front-end | HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/scb-e-commerce-demo) |
 | **My Web Site With React** | This is My Web Site| HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/web-site-used-nodemailer) |
 | **E-Commerce Demo With React** | E-Commerce Web Site |  HTML, CSS, REACT | [GitHub](https://github.com/salihbstg/e-commerce) |
 | **Piano With Javascript** | Piano App On Browser | HTML, CSS | [GitHub](https://github.com/salihbstg/Piano-with-javascript) |
