@@ -25,7 +25,7 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 
 | Project | Description | Technologies | Link |
 |--------|-------------|--------------|------|
-| **Nova Shop API** | A simple shop management system | Spring Boot, Spring Security, Exception Handling, JWT, PostgreSQL | [GitHub](https://github.com/salihbstg/novashop-backend) |
+| **Nova Shop API** | A shop management system currently under development. | Spring Boot, Spring Security, Exception Handling, JWT, PostgreSQL | [GitHub](https://github.com/salihbstg/novashop-backend) |
 | **Micro Shop API** | A simple shop management system | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/micro_shop) |
 | **Billing Demo API** | [Link](https://billing-demo-production.up.railway.app/api) | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/billing-demo) |
 | **Techcareer Project** | Bootcamp backend project | Spring Boot, Java, PostgreSQL | [GitHub](https://github.com/salihbstg/techcareer-my-project) |
