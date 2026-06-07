@@ -12,7 +12,7 @@ Currently, I'm improving my skills in Spring Security and deployment processes.
 - Spring Data JPA, Hibernate  
 - Microservices Architecture  
 - RESTful API Development  
-- PostgreSQL, MySQL, H2  
+- PostgreSQL, MySQL, H2, MSSQL
 - React  
 - JavaScript (ES6+)  
 - HTML5, CSS3  
